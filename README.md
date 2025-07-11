@@ -1,6 +1,6 @@
 # Simulador CTFL Foundation 4.0
 
-Simulador online de questões para a certificação **ISTQB CTFL Foundation 4.0**. Permite ao usuário realizar simulados, filtrar questões por categoria e nível de conhecimento, visualizar correção automática e explicações detalhadas.
+Simulador de questões para a certificação **ISTQB CTFL Foundation 4.0**. Permite ao usuário realizar simulados, filtrar questões por categoria e nível de conhecimento, visualizar correção automática e explicações detalhadas.
 
 ## Funcionalidades
 
@@ -15,7 +15,9 @@ Simulador online de questões para a certificação **ISTQB CTFL Foundation 4.0*
 
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `Simulador CTFL Foundation 4.0.html` em qualquer navegador moderno.
-3. Escolha os filtros desejados e inicie o simulado.
+3. Ou acesse a versão online:
+
+   👉 [Simulador CTFL Foundation 4.0 (GitHub Pages)](https://glaucodasilva.github.io/Simulador-CTFL-Foundation-4.0/)
 
 ## Pré-requisitos
 
@@ -31,3 +33,5 @@ Simulador online de questões para a certificação **ISTQB CTFL Foundation 4.0*
 
 Glauco Silva  
 [LinkedIn](https://www.linkedin.com/in/glaucodasilva/)
+
+---
