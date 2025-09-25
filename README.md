@@ -17,7 +17,7 @@ Simulador de questões para a certificação **ISTQB CTFL Foundation 4.0**. Perm
 2. Abra o arquivo `Simulador CTFL Foundation 4.0.html` em qualquer navegador moderno.
 3. Ou acesse a versão online:
 
-   👉 [Simulador CTFL Foundation 4.0 (GitHub Pages)](https://tatiihandrade.github.io/Simulador-CTFL/)
+   👉 [Simulador CTFL Foundation 4.0 (GitHub Pages)](https://glaucodasilva.github.io/Simulador-CTFL-Foundation-4.0/)
 
 ## Pré-requisitos
 
